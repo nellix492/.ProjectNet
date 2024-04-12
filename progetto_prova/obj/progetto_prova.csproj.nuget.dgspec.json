@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\niapi\\Desktop\\Provagit\\.ProjectNet\\progetto_prova\\progetto_prova.csproj": {}
+    "C:\\Users\\niapi\\Desktop\\Prova\\.ProjectNet\\progetto_prova\\progetto_prova.csproj": {}
   },
   "projects": {
-    "C:\\Users\\niapi\\Desktop\\Provagit\\.ProjectNet\\progetto_prova\\progetto_prova.csproj": {
+    "C:\\Users\\niapi\\Desktop\\Prova\\.ProjectNet\\progetto_prova\\progetto_prova.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\niapi\\Desktop\\Provagit\\.ProjectNet\\progetto_prova\\progetto_prova.csproj",
+        "projectUniqueName": "C:\\Users\\niapi\\Desktop\\Prova\\.ProjectNet\\progetto_prova\\progetto_prova.csproj",
         "projectName": "progetto_prova",
-        "projectPath": "C:\\Users\\niapi\\Desktop\\Provagit\\.ProjectNet\\progetto_prova\\progetto_prova.csproj",
+        "projectPath": "C:\\Users\\niapi\\Desktop\\Prova\\.ProjectNet\\progetto_prova\\progetto_prova.csproj",
         "packagesPath": "C:\\Users\\niapi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\niapi\\Desktop\\Provagit\\.ProjectNet\\progetto_prova\\obj\\",
+        "outputPath": "C:\\Users\\niapi\\Desktop\\Prova\\.ProjectNet\\progetto_prova\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\niapi\\AppData\\Roaming\\NuGet\\NuGet.Config"
